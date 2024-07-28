@@ -1,0 +1,27 @@
+
+.home, .home .loginInput{
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    gap: 3px;
+}
+input{
+    border-radius: 5px;
+    border: none;
+    padding: 10px 5px;
+}
+
+
+.successMsg{
+    color: green;
+}
+
+
+.errorMsg{
+    color: red;
+}
+
+.hideMsg{
+    display: none;
+}

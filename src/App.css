@@ -1,0 +1,14 @@
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  height: 100vh;
+}
+
+
+table{
+  padding: 10px 5px;
+}
+td{
+  padding: 5px;
+}
